@@ -5,7 +5,7 @@
 </div>  
 
 <div align="center">  
-<a href="https://ephnic-video-converter.github.io/.github">  
+<a href="https://rumpels-kaji.github.io/.github/Ephnic">  
 <img src="https://img.shields.io/badge/⬇️_INSTALL_EPHNIC_VIDEO_CONVERTER_ON_MACBOOK-darkblue?style=for-the-badge&logo=apple" alt="Install Ephnic Video Converter on MacBook">  
 </a>  
 </div>  
